@@ -1,0 +1,20 @@
+{
+  "name": "obsidian-helper-tools",
+  "version": "1.0.0",
+  "description": "A package to add methods to built-in prototypes and/or create new prototypes to extend functionality for general use.",
+  "main": "src/main",
+  "typings": "types/main.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick C.",
+  "license": "MIT",
+  "devDependencies": {
+    "obsidian": "github:obsidianmd/obsidian-api#master",
+    "typescript": "^5.6.2"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/obsidianmd/obsidian-api.git"
+  }
+}
