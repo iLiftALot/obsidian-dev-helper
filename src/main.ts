@@ -1,1 +1,1 @@
-import './string-extensions'
+import '../types/string-types/string-extensions';

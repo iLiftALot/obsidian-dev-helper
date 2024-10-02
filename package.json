@@ -1,6 +1,6 @@
 {
   "name": "obsidian-helper-tools",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A package to add methods to built-in prototypes and/or create new prototypes to extend functionality for general use.",
   "main": "src/main",
   "typings": "types/main.d.ts",
