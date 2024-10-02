@@ -1,1 +1,3 @@
-import '../types/string-types/string-extensions';
+import '../types/main';
+// const f = 'test';
+// f.capitalize();

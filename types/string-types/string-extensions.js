@@ -5,7 +5,6 @@ Object.defineProperty(String.prototype, 'capitalize', {
     enumerable: false,
 });
 
-// function to capitalize the first letter of a string
 export function capitalize(str) {
-    return capitalize(str);
+    return str.charAt(0).toUpperCase() + str.slice(1);
 }

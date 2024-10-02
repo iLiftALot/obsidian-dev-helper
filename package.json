@@ -14,8 +14,8 @@
     "typescript": "^4.7.3"
   },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/iLiftALot/obsidian-dev-helper.git"
+    "type": "git",
+    "url": "https://github.com/iLiftALot/obsidian-dev-helper.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"

@@ -1,1 +1,1 @@
-export * from "./string-types/string-extensions";
+export * from './string-types/string-extensions'
