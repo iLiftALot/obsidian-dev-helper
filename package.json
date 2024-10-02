@@ -16,8 +16,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/iLiftALot/obsidian-dev-helper.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   }
 }
